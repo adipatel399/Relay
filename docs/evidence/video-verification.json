@@ -1,0 +1,15 @@
+{
+  "durationSeconds": 135,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "videoCodec": "H.264",
+  "audioCodec": "AAC",
+  "audio": "Instrumental phonk; no narration",
+  "sizeBytes": 44822193,
+  "posterBakedAsFirstFrame": true,
+  "hyperframesCheckPassed": true,
+  "visualReviewSeconds": [
+    2,
+    58
+  ]
+}

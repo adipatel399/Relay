@@ -1,0 +1,13 @@
+node_modules/
+.relay/
+.env
+*.log
+artifacts/
+.deploy/
+brag-output/
+.DS_Store
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+production/**/.hyperframes/
+production/**/renders/

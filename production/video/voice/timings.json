@@ -1,0 +1,92 @@
+[
+  {
+    "scene": 0,
+    "duration": 4.48,
+    "text": "A notification is only the beginning. When you need help, someone has to answer."
+  },
+  {
+    "scene": 1,
+    "duration": 4.330667,
+    "text": "Meet Relay. A companion that keeps you connected to your people, and your work."
+  },
+  {
+    "scene": 2,
+    "duration": 4.949333,
+    "text": "The help flow is simple. Ask for support, see who acknowledges, then choose how to connect."
+  },
+  {
+    "scene": 3,
+    "duration": 6.016,
+    "text": "Start by inviting someone you trust. They accept the invitation and keep their contact dashboard open."
+  },
+  {
+    "scene": 4,
+    "duration": 5.909333,
+    "text": "An armed session enables the exact help phrase. A button and a missed check-in offer separate paths."
+  },
+  {
+    "scene": 5,
+    "duration": 6.912,
+    "text": "This demo uses simulated Bee input. The browser workflow works; physical device validation is still ahead."
+  },
+  {
+    "scene": 6,
+    "duration": 6.485333,
+    "text": "The contact receives an in-app request and acknowledges. Relay shows that response without assuming you are safe."
+  },
+  {
+    "scene": 7,
+    "duration": 7.338667,
+    "text": "Both people enable their microphones. WebRTC connects the browsers, with audio permission required on each side."
+  },
+  {
+    "scene": 8,
+    "duration": 6.698667,
+    "text": "Choose to share your browser location. Your contact sees its accuracy and age, instead of an inferred location."
+  },
+  {
+    "scene": 9,
+    "duration": 6.805333,
+    "text": "Cancel or resolve the session explicitly. The audio workflow stops, and the server clears the shared location."
+  },
+  {
+    "scene": 10,
+    "duration": 4.074667,
+    "text": "And when you are simply away from your desk, Relay helps keep focused work moving."
+  },
+  {
+    "scene": 11,
+    "duration": 6.293333,
+    "text": "Prepare a coding investigation using text, browser dictation, or a Bee-compatible transcript event."
+  },
+  {
+    "scene": 12,
+    "duration": 6.506667,
+    "text": "You review the transcribed request before starting. Background speech never directly executes a coding task."
+  },
+  {
+    "scene": 13,
+    "duration": 6.528,
+    "text": "This report comes from a real local Codex run. The hosted demo preserves its actual execution evidence."
+  },
+  {
+    "scene": 14,
+    "duration": 7.125333,
+    "text": "Codex reproduced the discount bug: one hundred ninety instead of one hundred eighty. It proposed a percentage-based fix."
+  },
+  {
+    "scene": 15,
+    "duration": 7.594667,
+    "text": "Twelve backend tests and eight browser checks passed, covering consent, escalation, persistence, audio, location, and cleanup."
+  },
+  {
+    "scene": 16,
+    "duration": 6.336,
+    "text": "Today, alerts are in-app only. There is no emergency dispatch, and real Bee data is still required."
+  },
+  {
+    "scene": 17,
+    "duration": 5.653333,
+    "text": "This is Relay. Your people, your momentum. Stay close, keep moving, and keep the human in control."
+  }
+]

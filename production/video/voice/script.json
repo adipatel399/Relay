@@ -1,0 +1,20 @@
+[
+  "A notification is only the beginning. When you need help, someone has to answer.",
+  "Meet Relay. A companion that keeps you connected to your people, and your work.",
+  "The help flow is simple. Ask for support, see who acknowledges, then choose how to connect.",
+  "Start by inviting someone you trust. They accept the invitation and keep their contact dashboard open.",
+  "An armed session enables the exact help phrase. A button and a missed check-in offer separate paths.",
+  "This demo uses simulated Bee input. The browser workflow works; physical device validation is still ahead.",
+  "The contact receives an in-app request and acknowledges. Relay shows that response without assuming you are safe.",
+  "Both people enable their microphones. WebRTC connects the browsers, with audio permission required on each side.",
+  "Choose to share your browser location. Your contact sees its accuracy and age, instead of an inferred location.",
+  "Cancel or resolve the session explicitly. The audio workflow stops, and the server clears the shared location.",
+  "And when you are simply away from your desk, Relay helps keep focused work moving.",
+  "Prepare a coding investigation using text, browser dictation, or a Bee-compatible transcript event.",
+  "You review the transcribed request before starting. Background speech never directly executes a coding task.",
+  "This report comes from a real local Codex run. The hosted demo preserves its actual execution evidence.",
+  "Codex reproduced the discount bug: one hundred ninety instead of one hundred eighty. It proposed a percentage-based fix.",
+  "Twelve backend tests and eight browser checks passed, covering consent, escalation, persistence, audio, location, and cleanup.",
+  "Today, alerts are in-app only. There is no emergency dispatch, and real Bee data is still required.",
+  "This is Relay. Your people, your momentum. Stay close, keep moving, and keep the human in control."
+]

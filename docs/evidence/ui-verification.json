@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-23T11:15:24.358Z",
+  "checks": [
+    "Contact invitation and explicit consent",
+    "Documentation cannot trigger; armed simulated event reaches contact",
+    "Permission-based Mumbai location reaches contact",
+    "Two independent browser contexts establish real WebRTC using synthetic microphone input",
+    "390px mobile layout has no horizontal overflow",
+    "Cancellation ends shared session, audio and location",
+    "Wearable agent request becomes owner-reviewed draft without automatic execution",
+    "No browser runtime or CSP errors"
+  ],
+  "errors": [],
+  "scope": "Automated browser rehearsal; no physical Bee or human user study; fake microphone and geolocation."
+}

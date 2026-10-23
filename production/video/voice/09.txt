@@ -1,0 +1,1 @@
+Cancel or resolve the session explicitly. The audio workflow stops, and the server clears the shared location.

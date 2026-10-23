@@ -1,0 +1,1 @@
+This report comes from a real local Codex run. The hosted demo preserves its actual execution evidence.

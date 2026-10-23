@@ -1,0 +1,1 @@
+Twelve backend tests and eight browser checks passed, covering consent, escalation, persistence, audio, location, and cleanup.

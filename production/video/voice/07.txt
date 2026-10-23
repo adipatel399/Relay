@@ -1,0 +1,1 @@
+Both people enable their microphones. WebRTC connects the browsers, with audio permission required on each side.

@@ -1,0 +1,1 @@
+This demo uses simulated Bee input. The browser workflow works; physical device validation is still ahead.

@@ -1,0 +1,1 @@
+{"name":"relay-bee","version":"0.1.0","private":true,"type":"module","engines":{"node":">=22.13"},"scripts":{"start":"node server/index.js","test":"node --test --test-concurrency=1 tests/*.test.js","test:ui":"node scripts/verify-ui.js","bee:bridge":"node scripts/bee-bridge.js"},"dependencies":{"express":"5.1.0","zod":"3.24.2"},"devDependencies":{"playwright":"1.64.1"}}

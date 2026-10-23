@@ -1,0 +1,1 @@
+Codex reproduced the discount bug: one hundred ninety instead of one hundred eighty. It proposed a percentage-based fix.
