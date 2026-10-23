@@ -198,3 +198,7 @@ Validate with authorised real device data; measure transcript latency and discon
 Music: **Phonk Execution: Alex-Productions**, [onsound.eu](https://www.onsound.eu/) / [free-stock-music.com](https://www.free-stock-music.com/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/); edited instrumental mix. Narration: synthetic Kokoro `af_heart`. Inter and Anton fonts use the SIL Open Font License; notices are bundled with the production assets.
 
 Built by **Aditya Patel** for the Amazon App Developer Hackathon 2026. Browser prototype; hardware integration remains unverified.
+
+## License
+
+Original project source is available under the [MIT License](LICENSE). Third-party dependencies, fonts and music retain their respective licenses; see the credits and bundled notices.
