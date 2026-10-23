@@ -4,13 +4,13 @@
 
 # Relay
 
-**Live at:** https://handback-tv-cb7fb9.koreacentral.cloudapp.azure.com/relay/
+**Live at:** https://relay-cb7fb9.koreacentral.cloudapp.azure.com/relay/
 
 ### Your people. Your momentum.
 
 A browser companion for trusted-contact help and reviewed coding-agent work.
 
-[**Launch Azure demo ↗**](https://handback-tv-cb7fb9.koreacentral.cloudapp.azure.com/relay/) · [**Narrated video**](docs/media/relay-narrated-demo.mp4) · [**Reviewer walkthrough**](#review-in-five-minutes) · [**Run locally**](#run-locally)
+[**Launch Azure demo ↗**](https://relay-cb7fb9.koreacentral.cloudapp.azure.com/relay/) · [**Narrated video**](docs/media/relay-narrated-demo.mp4) · [**Reviewer walkthrough**](#review-in-five-minutes) · [**Run locally**](#run-locally)
 
 ![Node](https://img.shields.io/badge/Node.js-22.13%2B-2454ef)
 ![Backend tests](https://img.shields.io/badge/Backend_tests-12_passed-31794b)
@@ -44,7 +44,7 @@ Relay makes that response visible. It also explores ordinary wearable assistance
 
 ### 1. Enter the Azure demo
 
-Open **[Relay on Azure](https://handback-tv-cb7fb9.koreacentral.cloudapp.azure.com/relay/)** and click **Open my workspace**.
+Open **[Relay on Azure](https://relay-cb7fb9.koreacentral.cloudapp.azure.com/relay/)** and click **Open my workspace**.
 
 **No username, password, API key or special link is required.** This is a shared judging workspace with intentionally public owner access. Use fictional names and test data only. Private/local deployments keep `RELAY_PUBLIC_DEMO` disabled.
 
